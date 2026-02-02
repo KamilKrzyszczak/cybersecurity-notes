@@ -1,4 +1,4 @@
-# THM Notes – Kamil
+# Cybersecurity Notes – Kamil
 
 Repository documenting my cybersecurity learning path.
 
