@@ -1,12 +1,5 @@
-# Cybersecurity Notes – Kamil
-
-Repository documenting my cybersecurity learning path.
-
-## Content
-- TryHackMe notes
-- pentesting methodology
-- tools & commands
-- lessons learned
-
-## Goal
-Junior Penetration Tester → Security Specialist
+Content
+- Networking fundamentals (OSI, ARP, DHCP)
+- Web fundamentals (HTTP, sessions, headers)
+- Web security & pentesting basics (Burp Suite, OWASP)
+- Methodology & personal takeaways
