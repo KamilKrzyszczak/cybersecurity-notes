@@ -14,6 +14,17 @@ Layer 7 – Application.
 Most web vulnerabilities exist because of improper handling of user input,
 authentication, sessions, and headers.
 
+## Real-world HTTP requests
+Modern browsers send many additional headers related to
+security, context and optimization (e.g. Sec-Fetch-*, Sec-CH-UA).
+Understanding these headers is important for analyzing
+real-world web traffic and security issues.
+
+## HTTP versions in practice
+While modern browsers often use HTTP/2, tools like Burp Suite
+may display or resend requests as HTTP/1.1.
+From a security perspective, the attack surface remains the same.
+
 ## Tools / Commands
 - Browser DevTools
 - curl
