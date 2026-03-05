@@ -64,6 +64,8 @@ Practical approach to web application testing:
 - Web testing process
 - Pentest flow
 
+### 06 - Labs
+
 ---
 
 ## Goal
